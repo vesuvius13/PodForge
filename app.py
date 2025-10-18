@@ -1,7 +1,3 @@
-"""
-Streamlit UI for NotebookLM Clone
-"""
-
 import streamlit as st
 import subprocess
 import json
@@ -11,7 +7,7 @@ from notebooklm_clone import NotebookLMClone
 
 # Page config
 st.set_page_config(
-    page_title="NotebookLM Clone - Podcast Generator",
+    page_title="PodForge",
     page_icon="🎙️",
     layout="wide"
 )
@@ -52,7 +48,7 @@ def get_existing_files(directory="output"):
     return research_files, script_files
 
 # Title and description
-st.title("🎙️ NotebookLM Clone - AI Podcast Generator")
+st.title("🎙️ PodForge")
 st.markdown("Generate engaging podcast conversations from any topic using AI")
 
 # Sidebar for configuration
