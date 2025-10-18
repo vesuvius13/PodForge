@@ -42,7 +42,7 @@ python notebooklm_clone.py "The history of coffee" \
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/podforge.git
+git clone https://github.com/vesuvius13/PodForge.git
 cd podforge
 
 # Install dependencies
