@@ -9,9 +9,6 @@ ChatTTS
 torch
 torchaudio
 streamlit
-
-# Deepgram TTS
-deepgram-sdk
 pydub
 
 
