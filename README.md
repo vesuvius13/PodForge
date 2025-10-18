@@ -13,7 +13,7 @@ PodForge automatically researches topics, generates natural dialogue scripts, an
 - 🔍 **Intelligent Research** - Uses Perplexity AI for comprehensive topic research
 - 📝 **Natural Script Generation** - Ollama-powered dialogue with customizable styles
 - 🎤 **High-Quality TTS** - ChatTTS for natural-sounding conversations
-- 🌐 **Beautiful Web UI** - Built with Streamlit for ease of use
+- 🌐 **Interactive Web UI** - Built with Streamlit for ease of use
 - 💾 **Resume from Files** - Save API credits by reusing research/scripts
 - 🎨 **Customizable Styles** - Casual, professional, or educational conversations
 - 🔄 **Auto-Detection** - Automatically finds installed Ollama models
