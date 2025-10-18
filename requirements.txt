@@ -1,0 +1,17 @@
+# Core dependencies
+requests
+numpy
+soundfile
+Ollama
+
+# ChatTTS (works on all platforms)
+ChatTTS
+torch
+torchaudio
+streamlit
+
+# Deepgram TTS
+deepgram-sdk
+pydub
+
+
