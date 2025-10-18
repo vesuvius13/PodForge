@@ -1,11 +1,3 @@
-"""
-Open Source NotebookLM Clone - Audio Overview Generator
-Generates podcast-style conversations from research topics using:
-- Perplexity Sonar API for research
-- Ollama for script generation
-- F5-TTS/ChatTTS for text-to-speech
-"""
-
 import os
 import json
 import requests
